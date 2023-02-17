@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringReduction", "StringReduction\StringReduction.csproj", "{707DABF3-268A-4929-957D-910B5E4DE3F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReductionTests", "StringReductionTests\StringReductionTests.csproj", "{8C2C4B21-F885-41EC-A576-300AF6E3B384}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{707DABF3-268A-4929-957D-910B5E4DE3F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707DABF3-268A-4929-957D-910B5E4DE3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707DABF3-268A-4929-957D-910B5E4DE3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707DABF3-268A-4929-957D-910B5E4DE3F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C2C4B21-F885-41EC-A576-300AF6E3B384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2C4B21-F885-41EC-A576-300AF6E3B384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2C4B21-F885-41EC-A576-300AF6E3B384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2C4B21-F885-41EC-A576-300AF6E3B384}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F06A5D0B-7635-4C4F-A49F-FC57C12C48A7}
+	EndGlobalSection
+EndGlobal
